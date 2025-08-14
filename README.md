@@ -75,7 +75,7 @@ src/
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/mikaeloganesian/SpellJack.git
+git clone https://github.com/DedovInside/Spell-Jack
 cd SpellJack
 
 # Установка зависимостей
