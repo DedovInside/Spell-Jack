@@ -160,7 +160,7 @@ npm run deploy
 
 - **Играть:** [vk.com/app54024852](https://vk.com/app54024852)
 - **VK для разработчиков:** [dev.vk.com](https://dev.vk.com)
-- **VK Bridge API:** [dev.vk.com/bridge](https://dev.vk.com/bridge)
+- **VK Bridge API:** [dev.vk.com/bridge/overview](https://dev.vk.com/ru/bridge/overview)
 
 ---
 
